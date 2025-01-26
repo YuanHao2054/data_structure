@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/11tree.dir/src/11tree.c.o -o 11tree 

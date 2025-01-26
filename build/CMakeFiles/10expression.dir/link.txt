@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/10expression.dir/src/10expression.c.o -o 10expression 

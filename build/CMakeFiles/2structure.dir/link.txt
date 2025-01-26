@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/2structure.dir/src/2structure.c.o -o 2structure 

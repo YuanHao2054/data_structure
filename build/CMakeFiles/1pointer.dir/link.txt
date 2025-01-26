@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/1pointer.dir/src/1pointer.c.o -o 1pointer 

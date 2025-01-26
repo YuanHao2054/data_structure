@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/4memory.dir/src/4memory.c.o -o 4memory 
