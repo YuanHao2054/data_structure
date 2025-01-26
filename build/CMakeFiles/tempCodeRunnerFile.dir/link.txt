@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/tempCodeRunnerFile.dir/src/tempCodeRunnerFile.c.o -o tempCodeRunnerFile 

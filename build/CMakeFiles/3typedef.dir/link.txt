@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/3typedef.dir/src/3typedef.c.o -o 3typedef 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/5Seqlist.dir/src/5Seqlist.c.o -o 5Seqlist 
